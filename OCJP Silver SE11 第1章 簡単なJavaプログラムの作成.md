@@ -354,7 +354,7 @@ C:\Users\tom_a\Documents\javastudy>dir hello
                2 個のディレクトリ  26,051,325,952 バイトの空き領域
 ```
 
-それでは実行してみます。helloふぉるだではなくjavastudyフォルダで実行していることに注意してください。
+それでは実行してみます。helloフォルダではなくjavastudyフォルダで実行していることに注意してください。
 
 ```
 C:\Users\tom_a\Documents\javastudy>java hello.Hello3
