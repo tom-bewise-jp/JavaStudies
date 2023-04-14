@@ -20,4 +20,10 @@ public class AClass implements ExtendedInterface {
 		return 0;
 	}
 
+	@Override
+	public int doSomethingWithDefaultMethod(int param) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
